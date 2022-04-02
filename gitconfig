@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = hans.bl@icloud.com
+	name = hans bousquet lafond
